@@ -5,4 +5,5 @@ Projeto para analisar se os filmes estão ficando menores em duração de acordo
 -  Python
 -  Pandas
 -  Matplotlib
+ </br>
 Projeto realizado para aumentar minha proficiência como Data Science.
